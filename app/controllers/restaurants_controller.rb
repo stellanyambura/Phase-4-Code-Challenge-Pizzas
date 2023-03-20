@@ -24,11 +24,11 @@
       end
     end
     
-#     def pizzas_index
-#       pizzas = Pizza.all
-#       render json: pizzas, only: [:id, :name, :ingredients]
-#     end
-#   end
+   def pizzas_index
+      pizzas = Pizza.all
+      render json: pizzas, only: [:id, :name, :ingredients]
+    end
+  end
   
 #   class RestaurantPizzasController < ApplicationController
 #     def create
