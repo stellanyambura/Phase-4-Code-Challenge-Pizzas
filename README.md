@@ -20,5 +20,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+ deployment link https://phase-4-code-challenge-pizzas-5583.onrender.com/pizzas
 
 * ...
